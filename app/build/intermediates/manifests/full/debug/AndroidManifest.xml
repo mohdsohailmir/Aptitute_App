@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="aptiapp.quizapp.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="aptiapp.quizapp.app.TestList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.TestActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_test" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.ResultActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_result" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.IntroList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_intro_list" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.WelcomePage"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_welcome_page" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.PracticeList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_practice_list" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.PracticeQuestion"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_practice_question" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.AddHighScore"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_add_high_score" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.IntroductionData"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_introduction_data" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.ShowHighScore"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_show_high_score" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.ShareApp"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_share_app" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.FeedBacknew"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_feed_backnew" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_setting" >
+        </activity>
+        <activity
+            android:name="aptiapp.quizapp.app.AptiApp"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_apti_app"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

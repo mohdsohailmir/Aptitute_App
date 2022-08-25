@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="aptiapp.quizapp.app"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <application
+        android:name="aptiapp.quizapp.app.App"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <service android:name="aptiapp.quizapp.app.MyService" />
+
+        <activity
+            android:name="aptiapp.quizapp.app.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name="aptiapp.quizapp.app.TestList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity
+            android:name="aptiapp.quizapp.app.TestActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_test" />
+        <activity
+            android:name="aptiapp.quizapp.app.ResultActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_result" />
+        <activity
+            android:name="aptiapp.quizapp.app.IntroList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_intro_list" />
+        <activity
+            android:name="aptiapp.quizapp.app.PracticeList"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_practice_list" />
+        <activity
+            android:name="aptiapp.quizapp.app.PracticeQuestion"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_practice_question" />
+        <activity
+            android:name="aptiapp.quizapp.app.AddHighScore"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_add_high_score" />
+        <activity
+            android:name="aptiapp.quizapp.app.IntroductionData"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_introduction_data" />
+        <activity
+            android:name="aptiapp.quizapp.app.ShowHighScore"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_show_high_score" />
+        <activity
+            android:name="aptiapp.quizapp.app.ShareApp"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_share_app" />
+        <activity
+            android:name="aptiapp.quizapp.app.FeedBacknew"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_feed_backnew" />
+        <activity
+            android:name="aptiapp.quizapp.app.SettingActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_setting" />
+        <activity
+            android:name="aptiapp.quizapp.app.AptiApp"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_apti_app"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="aptiapp.quizapp.app.lifecycle-trojan"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

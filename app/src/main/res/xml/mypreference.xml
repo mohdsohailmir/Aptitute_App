@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference 
+        android:key="splash"
+        android:title="Enable Splash?"
+        android:summary="Do You want to enable splash?"
+        android:defaultValue="true"
+        />
+ 	<CheckBoxPreference 
+        android:key="sound"
+        android:title="Enable Sound?"
+        android:summary="Do You want to enable sound?"
+        android:defaultValue="true"
+        />
+</PreferenceScreen>

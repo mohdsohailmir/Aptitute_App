@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AptiApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_create_database">Create Database</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_result">Result</string>
+    <string name="title_activity_intro_list">IntroList</string>
+    <string name="title_activity_welcome_page">Welcome</string>
+    <string name="title_activity_practice_list">Practice</string>
+    <string name="title_activity_practice_question">Practice</string>
+    <string name="title_activity_add_high_score">HighSCore</string>
+    <string name="title_activity_introduction_data">IntroductionData</string>
+    <string name="title_activity_show_high_score">HighScore</string>
+    <string name="title_activity_share_app">ShareApp</string>
+    <string name="title_activity_feed_back">FeedBack</string>
+    <string name="title_activity_feed_backnew">FeedBacknew</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_apti_app">Apti App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_my_drawer">MyDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_my_super_main">MySuperMain</string>
+
+</resources>

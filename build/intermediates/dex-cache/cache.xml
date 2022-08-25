@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\GTB Projector Room\.android\build-cache\2443946ce13146dbe2a49047fd0a15357e03d91c\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="J:\downloads\AptiApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_a708e699956ae73d228aa823b05a997d7ed7d2e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="J:\downloads\AptiApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_c10d9ee6f376c8687860c5b57068137f7ab613da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\GTB Projector Room\.android\build-cache\2443946ce13146dbe2a49047fd0a15357e03d91c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="J:\downloads\AptiApp\app\build\intermediates\pre-dexed\debug\classes_9104daef75dd070b048da3f7c4262f4ffa458cf7.jar" />
+    </item>
+
+</items>

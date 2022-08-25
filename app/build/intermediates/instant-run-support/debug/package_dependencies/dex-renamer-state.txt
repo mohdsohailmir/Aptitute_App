@@ -1,0 +1,10 @@
+#Thu Oct 26 15:10:30 IST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_48df3bb780d7d1be434343c29d9ec927153001ee
+base.1=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_fbca74ed7cc489ad45aecb46441508f7865c465e
+base.0=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_0fab49deda60dd9e55515be64d7f13c158961d78
+file.2=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_48df3bb780d7d1be434343c29d9ec927153001ee\\classes.dex
+file.1=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_fbca74ed7cc489ad45aecb46441508f7865c465e\\classes.dex
+file.0=C\:\\Users\\GTB Projector Room\\Documents\\AptiApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_0fab49deda60dd9e55515be64d7f13c158961d78\\classes.dex

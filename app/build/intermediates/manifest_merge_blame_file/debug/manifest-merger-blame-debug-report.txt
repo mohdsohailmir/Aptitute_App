@@ -1,0 +1,191 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="aptiapp.quizapp.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:7:5-47
+8        android:minSdkVersion="15"
+8-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:7:5-47
+9        android:targetSdkVersion="28" />
+9-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:7:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:8:5-67
+11-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:8:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:9:5-79
+12-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:10:5-81
+13-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:11:5-80
+14-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:11:22-77
+15    <uses-permission android:name="android.permission.READ_CONTACTS" />
+15-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:12:5-72
+15-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:12:22-69
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:13:5-77
+16-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:13:22-74
+17
+18    <application
+18-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:14:5-85:19
+19        android:name="aptiapp.quizapp.app.App"
+19-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:15:9-28
+20        android:allowBackup="true"
+20-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:16:9-35
+21        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+21-->[com.android.support:support-compat:28.0.0] C:\Users\user\.gradle\caches\transforms-2\files-2.1\2a6c121eda6c2cbe33230f54b72bbbd4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+22        android:debuggable="true"
+23        android:icon="@drawable/ic_launcher"
+23-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:17:9-45
+24        android:label="@string/app_name"
+24-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:18:9-41
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:19:9-40
+27        <service android:name="aptiapp.quizapp.app.MyService" />
+27-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:21:9-46
+27-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:21:18-43
+28
+29        <activity
+29-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:22:9-25:66
+30            android:name="aptiapp.quizapp.app.MainActivity"
+30-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:23:13-41
+31            android:label="@string/title_activity_main"
+31-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:24:13-56
+32            android:theme="@style/Theme.AppCompat.NoActionBar" />
+32-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:25:13-63
+33        <activity
+33-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:26:9-29:48
+34            android:name="aptiapp.quizapp.app.TestList"
+34-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:27:13-37
+35            android:configChanges="orientation|screenSize"
+35-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:28:13-59
+36            android:label="@string/app_name" />
+36-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:29:13-45
+37        <activity
+37-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:30:9-33:59
+38            android:name="aptiapp.quizapp.app.TestActivity"
+38-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:31:13-41
+39            android:configChanges="orientation|screenSize"
+39-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:32:13-59
+40            android:label="@string/title_activity_test" />
+40-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:33:13-56
+41        <activity
+41-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:34:9-37:61
+42            android:name="aptiapp.quizapp.app.ResultActivity"
+42-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:35:13-43
+43            android:configChanges="orientation|screenSize"
+43-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:36:13-59
+44            android:label="@string/title_activity_result" />
+44-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:37:13-58
+45        <activity
+45-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:38:9-41:65
+46            android:name="aptiapp.quizapp.app.IntroList"
+46-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:39:13-38
+47            android:configChanges="orientation|screenSize"
+47-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:40:13-59
+48            android:label="@string/title_activity_intro_list" />
+48-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:41:13-62
+49        <activity
+49-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:42:9-45:68
+50            android:name="aptiapp.quizapp.app.PracticeList"
+50-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:43:13-41
+51            android:configChanges="orientation|screenSize"
+51-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:44:13-59
+52            android:label="@string/title_activity_practice_list" />
+52-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:45:13-65
+53        <activity
+53-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:46:9-49:72
+54            android:name="aptiapp.quizapp.app.PracticeQuestion"
+54-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:47:13-45
+55            android:configChanges="orientation|screenSize"
+55-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:48:13-59
+56            android:label="@string/title_activity_practice_question" />
+56-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:49:13-69
+57        <activity
+57-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:50:9-53:69
+58            android:name="aptiapp.quizapp.app.AddHighScore"
+58-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:51:13-41
+59            android:configChanges="orientation|screenSize"
+59-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:52:13-59
+60            android:label="@string/title_activity_add_high_score" />
+60-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:53:13-66
+61        <activity
+61-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:54:9-57:72
+62            android:name="aptiapp.quizapp.app.IntroductionData"
+62-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:55:13-45
+63            android:configChanges="orientation|screenSize"
+63-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:56:13-59
+64            android:label="@string/title_activity_introduction_data" />
+64-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:57:13-69
+65        <activity
+65-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:58:9-61:70
+66            android:name="aptiapp.quizapp.app.ShowHighScore"
+66-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:59:13-42
+67            android:configChanges="orientation|screenSize"
+67-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:60:13-59
+68            android:label="@string/title_activity_show_high_score" />
+68-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:61:13-67
+69        <activity
+69-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:62:9-65:64
+70            android:name="aptiapp.quizapp.app.ShareApp"
+70-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:63:13-37
+71            android:configChanges="orientation|screenSize"
+71-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:64:13-59
+72            android:label="@string/title_activity_share_app" />
+72-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:65:13-61
+73        <activity
+73-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:66:9-69:67
+74            android:name="aptiapp.quizapp.app.FeedBacknew"
+74-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:67:13-40
+75            android:configChanges="orientation|screenSize"
+75-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:68:13-59
+76            android:label="@string/title_activity_feed_backnew" />
+76-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:69:13-64
+77        <activity
+77-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:70:9-73:62
+78            android:name="aptiapp.quizapp.app.SettingActivity"
+78-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:71:13-44
+79            android:configChanges="orientation|screenSize"
+79-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:72:13-59
+80            android:label="@string/title_activity_setting" />
+80-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:73:13-59
+81        <activity
+81-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:74:9-84:20
+82            android:name="aptiapp.quizapp.app.AptiApp"
+82-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:75:13-36
+83            android:configChanges="orientation|screenSize"
+83-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:76:13-59
+84            android:label="@string/title_activity_apti_app"
+84-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:77:13-60
+85            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+85-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:78:13-77
+86            <intent-filter>
+86-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:79:13-83:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:80:17-69
+87-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:80:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:82:17-77
+89-->C:\Users\user\Documents\AptiApp\AptiApp\app\src\main\AndroidManifest.xml:82:27-74
+90            </intent-filter>
+91        </activity>
+92
+93        <provider
+93-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8a42013e1b197366d48ba27cc1048011\extensions-1.1.1\AndroidManifest.xml:23:9-27:43
+94            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+94-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8a42013e1b197366d48ba27cc1048011\extensions-1.1.1\AndroidManifest.xml:24:13-83
+95            android:authorities="aptiapp.quizapp.app.lifecycle-trojan"
+95-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8a42013e1b197366d48ba27cc1048011\extensions-1.1.1\AndroidManifest.xml:25:13-68
+96            android:exported="false"
+96-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8a42013e1b197366d48ba27cc1048011\extensions-1.1.1\AndroidManifest.xml:26:13-37
+97            android:multiprocess="true" />
+97-->[android.arch.lifecycle:extensions:1.1.1] C:\Users\user\.gradle\caches\transforms-2\files-2.1\8a42013e1b197366d48ba27cc1048011\extensions-1.1.1\AndroidManifest.xml:27:13-40
+98    </application>
+99
+100</manifest>

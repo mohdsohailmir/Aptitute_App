@@ -1,0 +1,107 @@
+aptiapp/quizapp/app/IntroductionData.java
+ aptiapp.quizapp.app.IntroductionData
+aptiapp/quizapp/app/ui/slideshow/SlideshowFragment.java
+ aptiapp.quizapp.app.ui.slideshow.SlideshowFragment
+ aptiapp.quizapp.app.ui.slideshow.SlideshowFragment$1
+aptiapp/quizapp/app/IntroFragment.java
+ aptiapp.quizapp.app.IntroFragment
+ aptiapp.quizapp.app.IntroFragment$1
+ aptiapp.quizapp.app.IntroFragment$myAdapter1
+aptiapp/quizapp/app/ui/gallery/GalleryViewModel.java
+ aptiapp.quizapp.app.ui.gallery.GalleryViewModel
+aptiapp/quizapp/app/AnswerDatabaseFile.java
+ aptiapp.quizapp.app.AnswerDatabaseFile
+aptiapp/quizapp/app/ui/home/HomeViewModel.java
+ aptiapp.quizapp.app.ui.home.HomeViewModel
+aptiapp/quizapp/app/PracticeDatabaseFile.java
+ aptiapp.quizapp.app.PracticeDatabaseFile
+aptiapp/quizapp/app/App.java
+ aptiapp.quizapp.app.App
+aptiapp/quizapp/app/CreateDatabaseFile.java
+ aptiapp.quizapp.app.CreateDatabaseFile
+aptiapp/quizapp/app/TestDatabaseFile.java
+ aptiapp.quizapp.app.TestDatabaseFile
+aptiapp/quizapp/app/ui/slideshow/SlideshowViewModel.java
+ aptiapp.quizapp.app.ui.slideshow.SlideshowViewModel
+aptiapp/quizapp/app/ui/gallery/GalleryFragment.java
+ aptiapp.quizapp.app.ui.gallery.GalleryFragment
+ aptiapp.quizapp.app.ui.gallery.GalleryFragment$1
+aptiapp/quizapp/app/ConnectionDetection.java
+ aptiapp.quizapp.app.ConnectionDetection
+aptiapp/quizapp/app/SettingActivity.java
+ aptiapp.quizapp.app.SettingActivity
+aptiapp/quizapp/app/mydbclass.java
+ aptiapp.quizapp.app.mydbclass
+aptiapp/quizapp/app/BuildConfig.java
+ aptiapp.quizapp.app.BuildConfig
+aptiapp/quizapp/app/scoredatabase.java
+ aptiapp.quizapp.app.scoredatabase
+aptiapp/quizapp/app/ShareApp.java
+ aptiapp.quizapp.app.ShareApp
+aptiapp/quizapp/app/TestActivity.java
+ aptiapp.quizapp.app.TestActivity
+ aptiapp.quizapp.app.TestActivity$1
+ aptiapp.quizapp.app.TestActivity$2
+ aptiapp.quizapp.app.TestActivity$3
+ aptiapp.quizapp.app.TestActivity$4
+ aptiapp.quizapp.app.TestActivity$5
+ aptiapp.quizapp.app.TestActivity$5$1
+ aptiapp.quizapp.app.TestActivity$6
+ aptiapp.quizapp.app.TestActivity$6$1
+ aptiapp.quizapp.app.TestActivity$6$1$1
+aptiapp/quizapp/app/ui/home/HomeFragment.java
+ aptiapp.quizapp.app.ui.home.HomeFragment
+ aptiapp.quizapp.app.ui.home.HomeFragment$1
+aptiapp/quizapp/app/PracticeQuestion.java
+ aptiapp.quizapp.app.PracticeQuestion
+ aptiapp.quizapp.app.PracticeQuestion$1
+ aptiapp.quizapp.app.PracticeQuestion$10
+ aptiapp.quizapp.app.PracticeQuestion$2
+ aptiapp.quizapp.app.PracticeQuestion$3
+ aptiapp.quizapp.app.PracticeQuestion$4
+ aptiapp.quizapp.app.PracticeQuestion$5
+ aptiapp.quizapp.app.PracticeQuestion$6
+ aptiapp.quizapp.app.PracticeQuestion$7
+ aptiapp.quizapp.app.PracticeQuestion$8
+ aptiapp.quizapp.app.PracticeQuestion$9
+aptiapp/quizapp/app/AptiApp.java
+ aptiapp.quizapp.app.AptiApp
+ aptiapp.quizapp.app.AptiApp$1
+aptiapp/quizapp/app/ResultActivity.java
+ aptiapp.quizapp.app.ResultActivity
+ aptiapp.quizapp.app.ResultActivity$1
+ aptiapp.quizapp.app.ResultActivity$2
+ aptiapp.quizapp.app.ResultActivity$3
+ aptiapp.quizapp.app.ResultActivity$4
+ aptiapp.quizapp.app.ResultActivity$5
+aptiapp/quizapp/app/ShowHighScore.java
+ aptiapp.quizapp.app.ShowHighScore
+ aptiapp.quizapp.app.ShowHighScore$1
+ aptiapp.quizapp.app.ShowHighScore$myadapter1
+aptiapp/quizapp/app/IntroList.java
+ aptiapp.quizapp.app.IntroList
+aptiapp/quizapp/app/MainActivity.java
+ aptiapp.quizapp.app.MainActivity
+ aptiapp.quizapp.app.MainActivity$1
+ aptiapp.quizapp.app.MainActivity$2
+ aptiapp.quizapp.app.MainActivity$3
+ aptiapp.quizapp.app.MainActivity$4
+ aptiapp.quizapp.app.MainActivity$5
+ aptiapp.quizapp.app.MainActivity$6
+ aptiapp.quizapp.app.MainActivity$7
+ aptiapp.quizapp.app.MainActivity$BatteryChangeReceiver
+aptiapp/quizapp/app/PracticeList.java
+ aptiapp.quizapp.app.PracticeList
+ aptiapp.quizapp.app.PracticeList$myAdapter1
+aptiapp/quizapp/app/AddHighScore.java
+ aptiapp.quizapp.app.AddHighScore
+ aptiapp.quizapp.app.AddHighScore$1
+ aptiapp.quizapp.app.AddHighScore$myhelperclass
+aptiapp/quizapp/app/MyService.java
+ aptiapp.quizapp.app.MyService
+aptiapp/quizapp/app/FeedBacknew.java
+ aptiapp.quizapp.app.FeedBacknew
+ aptiapp.quizapp.app.FeedBacknew$1
+aptiapp/quizapp/app/TestList.java
+ aptiapp.quizapp.app.TestList
+ aptiapp.quizapp.app.TestList$myAdapter1

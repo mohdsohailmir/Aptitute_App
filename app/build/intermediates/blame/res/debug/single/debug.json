@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_highscore.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\highscore.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nine.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\nine.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_two.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\two.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_intro.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\fragment_intro.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_test.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_test.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_wrong.mp3.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\raw\\wrong.mp3"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seven.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\seven.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_introduction_data.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_introduction_data.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_timeup.mp3.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\raw\\timeup.mp3"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_welcome_page.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_welcome_page.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_intro_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout-land\\activity_intro_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zero.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\zero.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_highscorelayout.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\highscorelayout.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ten.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\ten.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_right.mp3.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\raw\\right.mp3"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_show_high_score.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_show_high_score.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_three.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\three.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_show_high_score.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_show_high_score.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_apti_app.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_apti_app.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_myanimation.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\anim\\myanimation.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_test.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\test.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_onbacklayout.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\onbacklayout.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ok.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\ok.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_super_main.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\my_super_main.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_practice_question.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_practice_question.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_mypreference.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\xml\\mypreference.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_practicelayout.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\practicelayout.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_practice.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\practice.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backbutton.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\backbutton.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_add_high_score.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_add_high_score.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_practice_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_practice_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_share_app.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_share_app.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_six.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\six.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_test_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_feed_back.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_feed_back.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splashapti.jpg.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\splashapti.jpg"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_intro_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_my_drawer.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\my_drawer.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eight.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\eight.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_result.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_intro_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_intro_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background2.jpg.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.gif.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\home.gif"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_one.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\one.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eleven.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\eleven.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back2.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\back2.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_high_score.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_add_high_score.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_list_practice.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\custom_list_practice.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.jpg.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\gallery.jpg"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_result.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_result.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_practice_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_practice_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_backnew.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_feed_backnew.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_highscore_custom_layout.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\highscore_custom_layout.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_practice_question.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_practice_question.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_feed_backnew.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_feed_backnew.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_questionmark.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\questionmark.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_share_app.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_share_app.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_buttonclick.mp3.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\raw\\buttonclick.mp3"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_introduction_data.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_introduction_data.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_four.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\four.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_test_list.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_test_list.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_apti_app.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\activity_apti_app.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_timeuplayout.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\timeuplayout.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_setting.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\menu\\activity_setting.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nextbutton.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\nextbutton.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_introuction.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\introuction.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_basicformula.gif.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\basicformula.gif"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_five.png.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\drawable\\five.png"
+    },
+    {
+        "merged": "J:\\downloads\\AptiApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "J:\\downloads\\AptiApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    }
+]
